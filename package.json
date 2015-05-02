@@ -1,0 +1,26 @@
+{
+  "name": "@rdcl/cache",
+  "version": "1.0.0",
+  "description": "A caching system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudiculous/rdcl-cache.git"
+  },
+  "author": "RJ van der Weide <rj@rudiculous.net> (http://rdcl.nl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudiculous/rdcl-cache/issues"
+  },
+  "homepage": "https://github.com/rudiculous/rdcl-cache#readme",
+  "dependencies": {
+    "moment": "~2.10.x",
+    "ms": "~0.7.x"
+  },
+  "engines": {
+    "iojs": "2.0.x"
+  }
+}
